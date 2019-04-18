@@ -5,8 +5,10 @@
 package diff_test
 
 import (
-	"github.com/mb0/diff"
+	// "github.com/mb0/diff"
 	"testing"
+
+	"github.com/lawwy/diff"
 )
 
 type testcase struct {
